@@ -1,0 +1,16 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+textarea{
+    display: block;
+}
+
+.task{
+    border: gold 1px solid;
+}
